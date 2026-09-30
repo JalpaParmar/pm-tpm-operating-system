@@ -8,6 +8,11 @@ This repository is designed to help someone **run a project**, not merely read P
 
 ## Start here
 - [Start Here](00-Start-Here/README.md)
+- [Quick Start](00-Start-Here/QUICK-START.md)
+- [End-to-End Worked Project](20-Examples/END-TO-END-WORKED-PROJECT.md)
+- [Master Artifact Catalog](19-Templates/MASTER-CATALOG.md)
+- [Final Audit](AUDIT.md)
+- [Maintenance Guide](MAINTENANCE.md)
 - [Roadmap](ROADMAP.md)
 - [Artifact Standards](ARTIFACT-STANDARDS.md)
 - [Glossary](GLOSSARY.md)
@@ -50,4 +55,4 @@ Every artifact should include:
 6. quality checks.
 
 ## Status
-**Phase 1: Foundation complete candidate.** Subsequent phases are approval-gated.
+**Day 2 complete: Phases 1–10 built, verified and audited.**
