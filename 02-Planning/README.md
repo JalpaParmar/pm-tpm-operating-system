@@ -11,3 +11,10 @@ Flow: scope/deliverables → WBS → dependencies → estimates → milestones/s
 - [Planning Checklist](../18-Checklists/Planning-Readiness.md)
 
 Planning is iterative. A baseline is an approved reference, not a promise that uncertainty disappeared.
+
+
+## Sample Dashboard
+
+![Planning Summary](images/planning-summary.svg)
+
+*Illustrative preview. Values are sample data; use the operational templates for real projects.*

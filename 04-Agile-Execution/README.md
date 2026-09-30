@@ -10,3 +10,10 @@ Plan/commit → execute → surface blockers/dependencies → inspect flow/outco
 - [Off-Track Playbook](../17-Playbooks/Iteration-Off-Track.md)
 
 Metrics are system/planning signals, not individual performance scores.
+
+
+## Sample Dashboard
+
+![Execution Health Summary](images/execution-summary.svg)
+
+*Illustrative preview. Values are sample data; use the operational templates for real projects.*
