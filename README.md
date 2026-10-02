@@ -8,6 +8,13 @@ This repository is designed to help someone **run a project**, not merely read P
 
 ## Start here
 - [Start Here](00-Start-Here/README.md)
+- [Start Here by Role](START-HERE-BY-ROLE.md)
+- [Interview Answer Bank](22-Interview-Answer-Bank/README.md)
+- [Scenario Lab](23-Scenario-Lab/README.md)
+- [30/60/90 Role Playbooks](24-Role-Playbooks/README.md)
+- [When X Happens](25-When-X-Happens/README.md)
+- [Decision Toolkit](26-Decision-Toolkit/README.md)
+- [Career Toolkit](27-Career-Toolkit/README.md)
 - [Quick Start](00-Start-Here/QUICK-START.md)
 - [End-to-End Worked Project](20-Examples/END-TO-END-WORKED-PROJECT.md)
 - [Master Artifact Catalog](19-Templates/MASTER-CATALOG.md)
